@@ -1,0 +1,6 @@
+#+title: dev/null
+#+description: This is my homeserver config files
+#+created: [2022-11-28 Mon 00:20]
+#+last_modified: [2022-11-28 Mon 00:21]
+
+This is a work in progress readme.
